@@ -9,6 +9,7 @@ Pada umumnya, ada 2 tipe HTML Tag:
 Opening Tag (tag pembuka) - contohnya adalah <p>.
 Closing Tag (tag penutup) - contohnya adalah </p>.
 
+```html
 berikut Macam-Macam Tag dalam HTML:
 <!DOCTYPE> syntax mendefinisikan versi dari HTML yang digunakan dan harus dideklarasi sebelum tag <html>.<!DOCTYPE html>mendefinisikan bahwa dokumen ini adalah HTML5.
 <html></html> Tag ini menandai awal dan akhir dari Dokumen HTML. Semua HTML Tag lainnya harus di bungkus dengan tag ini.
@@ -38,3 +39,4 @@ HTML comment diawali dengan <!-- dan diakhiri dengan -->.
 <b></b> atau <strong></strong> digunakan untuk membuat tulisan menjadi tebal.
 <i></i> atau <m></m> Tag ini untuk membuat huruf bercetak miring.
 <iframe></iframe> Tag ini digunakan untuk menanamkan dokumen atau halaman web lain di dalam halaman web saat ini.
+```html
