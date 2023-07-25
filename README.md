@@ -51,5 +51,12 @@ HTML comment diawali dengan <!-- dan diakhiri dengan -->.
 <map></map> Tag ini digunakan untuk mendefinisikan gambar peta.
 <picture></picture>	Menampilkan gambar yang berbeda untuk perangkat yang berbeda.
 <src></src> Tag ini digunakan untuk atribut menentukan url gambar.
+<hr></hr>	Memisahkan konten.
+<!--...--> untuk membuat komentar.
+<pre></pre> Tag ini digunakan untuk memformat teks.
+<color> Tag ini biasa berfungsi untuk memberikan warna pada teks.
+<style>	 Atribut untuk elemen styling pada HTML.
+background-color untuk memberi warna pada latar belakang.
+<del></del> Tag ini digunakan untuk menghapus sebuah teks.
 ```html
 
