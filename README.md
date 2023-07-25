@@ -39,4 +39,17 @@ HTML comment diawali dengan <!-- dan diakhiri dengan -->.
 <b></b> atau <strong></strong> digunakan untuk membuat tulisan menjadi tebal.
 <i></i> atau <m></m> Tag ini untuk membuat huruf bercetak miring.
 <iframe></iframe> Tag ini digunakan untuk menanamkan dokumen atau halaman web lain di dalam halaman web saat ini.
+<output> Tag ini digunakan untuk menampilkan hasil hitungan.
+<select></select> Tag ini digunakan untuk membuat input dengan pilihan bentuk yang berbentuk list drop dwon.
+<label></label> Tag ini digunakan untuk meberikan label pada elemen input.
+<datalist></datalist> Tag ini digunakan untuk membuat daftar pilihan untuk input data.
+<sub></sub> Tag ini digunakan untuk teks subscript.
+<br></br> Tag ini digunakan untuk membuat garis baru.
+<option></option> Tag ini digunakan untuk mendefinisikan opsi yang bisa di pilih.
+<type></type> Tag ini digunakan untuk menentukan jenis penomoran.
+<fieldset></fieldset> Tag ini digunakan untuk mengelompokan elemen yang terdapat pada sebuah form.
+<map></map> Tag ini digunakan untuk mendefinisikan gambar peta.
+<picture></picture>	Menampilkan gambar yang berbeda untuk perangkat yang berbeda.
+<src></src> Tag ini digunakan untuk atribut menentukan url gambar.
 ```html
+
